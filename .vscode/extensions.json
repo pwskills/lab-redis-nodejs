@@ -1,10 +1,7 @@
 {
   "recommendations": [
-    "ExpressSnippets.vscode-express-snippets",
-    "xabikos.JavaScriptSnippets",
-    "ms-vscode.vscode-typescript-next",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
+    "cweijan.vscode-redis-client",
+    "cweijan.vscode-database-client2",
     "formulahendry.code-runner",
     "VisualStudioExptTeam.vscodeintellicode",
     "VisualStudioExptTeam.intellicode-api-usage-examples"
