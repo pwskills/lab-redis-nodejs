@@ -1,9 +1,6 @@
 {
   "recommendations": [
     "cweijan.vscode-redis-client",
-    "cweijan.vscode-database-client2",
-    "formulahendry.code-runner",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.intellicode-api-usage-examples"
+    "formulahendry.code-runner"
   ]
 }
