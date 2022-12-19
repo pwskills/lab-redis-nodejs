@@ -1,5 +1,5 @@
 {
-  "name": "neurolab-redis-nodejs",
+  "name": "lab-redis-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
